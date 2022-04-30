@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mohamednaga7
 - 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning Flutter for mobile app development along with django rest framework and aws lambda serverless functions
-- 💞️ I’m looking to collaborate on a full stack mobile app project
+- 🌱 I’m currently working as a full stack developer in Cosuno
 - 📫 You can contact me by sending me an email to mohamed.nagah95@gmail.com
 
 <!---
