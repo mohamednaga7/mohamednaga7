@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohamednaga7
 - 👀 I’m interested in Full stack development
-- 🌱 I’m currently working as a full stack developer in Cosuno
+- 🌱 I’m currently working as a lead software engineer in [Producer.io](https://the-producer.io/), building the future of movie production software technology 🚀
 - 📫 You can contact me by sending me an email to mohamed.nagah95@gmail.com
 
 <!---
